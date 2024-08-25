@@ -14,3 +14,6 @@ The script reads each .dat file, resamples the #2th values based on the step siz
 
 # Output:
 The resampled file is saved in the same directory as the original file, with the name pattern: original_filename_resampled.dat.
+
+# Download the excutable file via the following link 
+https://drive.sesame.org.jo/owncloud/index.php/s/xhDt6zz0EEjOITg 
